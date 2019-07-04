@@ -1,0 +1,6 @@
+import java.io.*;
+class Prg {
+    public static void main(String[] args) throws IOException {
+        System.out.println("Hello GitHub And World !~");
+    }
+}
